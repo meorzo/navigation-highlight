@@ -56,13 +56,17 @@ nav a:hover {
   background-color: #cc1465;
 }
 
+.current {
+  background-color: #b20953;
+}
+
 h2 {
   font-family: "Sigmar One", sans-serif;
   color: #cc1465;
   font-size: 1.875rem;
 }
 
-.img {
+img {
   max-width: 100%;
   display: inline-block;
 }
